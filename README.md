@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-Rock, Paper, Scissor with a computer
+Play "Rock-Paper-Scissor" with a computer without any biasness
